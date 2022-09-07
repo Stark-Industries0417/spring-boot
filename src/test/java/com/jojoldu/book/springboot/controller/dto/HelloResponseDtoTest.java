@@ -1,4 +1,4 @@
-package com.jojoldu.book.springboot.dto;
+package com.jojoldu.book.springboot.controller.dto;
 
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
