@@ -1,4 +1,4 @@
-package com.jojoldu.book.springboot.dto;
+package com.jojoldu.book.springboot.controller.dto;
 
 public class HelloResponseDto {
     private final String name;
